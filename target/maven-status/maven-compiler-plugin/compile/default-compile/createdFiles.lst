@@ -1,0 +1,5 @@
+br/com/desafiojsf/model/dao/InterfaceDao.class
+br/com/desafiojsf/model/Tarefa.class
+br/com/desafiojsf/model/dao/GenericDao.class
+br/com/desafiojsf/model/Tarefa_.class
+br/com/desafiojsf/controller/TarefaController.class
